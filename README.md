@@ -18,7 +18,7 @@ A rundown of principles I apply to leadership at work and in life.
 
 # Growth
 * I will seek and create opportunities that challenge you. See [Goldilocks Principle of Challenge](https://www.google.com/search?q=goldilocks+principles+of+challenge).
-* I will partner with you to organize and provide training that is relevant to your future goals.
+* I will partner with you to organize and provide training that is relevant to your future self.
 * I will NOT have all the answers to your questions, but I will work with you to find them.
 
 # Meetings

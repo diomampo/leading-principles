@@ -28,3 +28,5 @@ A rundown of principles I apply to leadership at work and in life.
 
 # Other
 * I will make mistakes, so please keep me honest and hold me accountable.
+
+Inspired by [this post](http://fractio.nl/2018/07/30/my-philosophy-on-work/)
